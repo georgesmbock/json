@@ -5,9 +5,9 @@ date: 19/04/2024
 
 
 ## Objectifs: 
-*  **Construire une base de données 
+* Construire une base de données 
 
-* **Manipuler des données
+* Manipuler des données
 
 ### 1- Construire la base de données
 
