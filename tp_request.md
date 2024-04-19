@@ -1,5 +1,6 @@
 # Travaux pratiques MongoDB
 author: MBOCK MBOCK Georges christiian
+
 date: 19/04/2024
 
 
@@ -22,7 +23,7 @@ Dans cette partie, nous allons énumérer les étapes faites:
 
 ### 2- Manipulation des données
 
-#### TP1
+#### TP-1
 
 1- afficher le premier document `db.fiirstCollection.find().limit(1)`
 
@@ -36,7 +37,7 @@ Dans cette partie, nous allons énumérer les étapes faites:
 
 6- Liste des publications de l’auteur « Toru Ishida » : `db.firstCollection.find({authors: 'Toru Ishida'})`
 
-#### TP2
+#### TP-2
 
 1- Liste de tous les auteurs distincts : `db.firstCollection.distinct("authors")`
 
